@@ -3,3 +3,6 @@ The lottery has long captivated the imagination of the public — a tantalizing 
 This quarto doc briefly explores decades of PowerBall data. From frequency polygons and boxplots to 3D surface plots and correlation heatmaps.
 
 Whether you’re a curious lottery fan, a statistician interested in probability, or a data viz nerd looking to see Plotly in action — this analysis offers a visually rich and data-driven perspective on the numbers that fuel billion-dollar dreams.
+
+
+Navigate to the code https://itandersa.github.io/powerball/
